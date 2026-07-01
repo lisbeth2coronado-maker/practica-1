@@ -14,3 +14,4 @@ else:
 
 if contador_intentos==max_intentos:
     print("la caja fuerte quedo bloqueada")
+    
